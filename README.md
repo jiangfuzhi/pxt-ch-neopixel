@@ -1,4 +1,4 @@
-# pxt-ch-neopixel
+# pxt-neopixel
 
 
 
